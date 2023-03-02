@@ -3,3 +3,4 @@ biar eror(b)
 biar eror(a)
 for c
 for c
+fitur d pada file1
