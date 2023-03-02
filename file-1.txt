@@ -6,3 +6,5 @@ for c
 perubahan file (login)
 
 for login
+
+for pick
