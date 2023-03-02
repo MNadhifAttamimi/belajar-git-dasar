@@ -5,3 +5,5 @@ fitur utama di file2x
 perubahan file (login)
 
 for login
+
+for pick
